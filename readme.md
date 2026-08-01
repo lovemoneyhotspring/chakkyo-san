@@ -1,3 +1,3 @@
-＃　chalky-san
+# chalky-san
 
 Simple call-blocking app
